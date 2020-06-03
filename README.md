@@ -7,9 +7,6 @@
   
 
   
-
-*  [StackHack 1.0](https://www.hackerearth.com/challenges/hackathon/stackhack-v1/) - Hackathon
-
   
 
   
@@ -77,9 +74,6 @@
   
 
   
-
-- [ ] Zip all your Source Code, Screenshots, Deployment Instructions and Upload.
-
   
 
   
@@ -157,6 +151,3 @@ Along with everything from the above two levels :
 
   
 
-  
-
-Note : If you complete any or all of the above mentioned levels please do submit.
